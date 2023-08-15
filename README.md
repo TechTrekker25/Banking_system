@@ -1,6 +1,3 @@
-Absolutely, here's the updated code with the LinkedIn and Gmail icons linked to your provided profiles:
-
-```markdown
 # <p align="center">
 # <img src="https://img.shields.io/badge/Banking-automater-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 # </p>
