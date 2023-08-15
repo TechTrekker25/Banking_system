@@ -1,2 +1,86 @@
-# Banking_system
-This is a Banking system I have created using c++
+# Banking System
+
+A simple banking system implementation in C++ that allows users to open accounts, check balances, deposit, withdraw, and manage accounts.
+
+## Features
+
+- Create and manage bank accounts
+- Check account balances
+- Deposit funds into accounts
+- Withdraw funds from accounts
+- Close accounts
+- View a list of all accounts
+
+## Getting Started
+
+### Prerequisites
+
+- g++ compiler: Install using `sudo apt install g++`
+
+### Compile and Run
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/banking-system.git
+   ```
+
+2. Navigate to the repository directory:
+
+   ```bash
+   cd banking-system
+   ```
+
+3. Compile the code:
+
+   ```bash
+   g++ -o banking_system main.cpp
+   ```
+
+4. Run the executable:
+
+   ```bash
+   ./banking_system
+   ```
+
+## Usage
+
+1. Choose an option from the menu:
+   - Open an account
+   - Check balance
+   - Deposit
+   - Withdraw
+   - Close account
+   - Show all accounts
+   - Quit
+
+2. Follow the prompts to perform the desired actions.
+
+## Sample Screenshots
+
+_Insert some screenshots here to visually showcase the program's interface and functionality._
+
+## Contributing
+
+Contributions are welcome! Please follow the standard GitHub flow:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit and push your changes to your fork
+5. Create a pull request to the main repository
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+Your Name - [higgsboson25022003@gmail.com](mailto:higgsboson25022003@gmail.com)
+
+Project Link: [https://github.com/yourusername/banking-system](https://github.com/yourusername/banking-system)
+```
+
+Remember to replace `yourusername` with your actual GitHub username and customize the content as needed. You can also add screenshots, modify contact information, and provide additional project-specific details.
