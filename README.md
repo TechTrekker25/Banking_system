@@ -80,12 +80,12 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 For any questions or feedback, feel free to reach out:
 
-Your Name - [higgsboson25022003@gmail.com](mailto:higgsboson25022003@gmail.com)
+YOGESH T
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/your-linkedin-profile-link)
-[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:your.email@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/yogesh-t-5424211bb/)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:higgsboson25022003@gmail.com)
 
-Project Link: [https://github.com/yourusername/banking-system](https://github.com/yourusername/banking-system)
+Project Link: [https://github.com/yourusername/banking-system]([https://github.com/yourusername/banking-system](https://github.com/TechTrekker25/Banking_system))
 ```
 
 Replace `your-linkedin-profile-link` with your actual LinkedIn profile URL and `your.email@gmail.com` with your Gmail address. This code will have the LinkedIn and Gmail icons linked to your provided profiles.
