@@ -64,7 +64,7 @@ A simple banking system implementation in C++ that allows users to open accounts
 ## Sample Screenshots
 
 <p align="center">
-  <img src="ss.png" alt="ScreenShots">
+  <img src="https://github.com/TechTrekker25/Banking_system/blob/main/ss.png" alt="ScreenShots">
 </p>
 
 ## Contributing
