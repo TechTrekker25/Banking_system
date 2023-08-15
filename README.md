@@ -1,5 +1,5 @@
 # <p align="center">
-# <img src="https://img.shields.io/badge/Banking-automater-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+# <img src="https://img.shields.io/badge/Banking-System-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 # </p>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1375936/screenshots/7128890/media/5fcc028efb1f50a1c489ba5dac46e415.gif" alt="Welcome GIF">
