@@ -2,7 +2,7 @@
 # <img src="https://img.shields.io/badge/Banking-automater-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 # </p>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/92/99/40/929940c7800ad3868b0e7828d53073a7.gif" alt="Welcome GIF">
+  <img src="[https://i.pinimg.com/originals/92/99/40/929940c7800ad3868b0e7828d53073a7.gif](https://cdn.dribbble.com/users/1375936/screenshots/7128890/media/5fcc028efb1f50a1c489ba5dac46e415.gif)" alt="Welcome GIF">
 </p>
 
 A simple banking system implementation in C++ that allows users to open accounts, check balances, deposit, withdraw, and manage accounts.
