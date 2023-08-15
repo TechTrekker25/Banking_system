@@ -1,4 +1,9 @@
-# Banking System
+Absolutely, here's the updated code with the LinkedIn and Gmail icons linked to your provided profiles:
+
+```markdown
+# <p align="center">
+# <img src="https://img.shields.io/badge/Banking-automater-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+# </p>
 
 A simple banking system implementation in C++ that allows users to open accounts, check balances, deposit, withdraw, and manage accounts.
 
@@ -80,7 +85,13 @@ For any questions or feedback, feel free to reach out:
 
 Your Name - [higgsboson25022003@gmail.com](mailto:higgsboson25022003@gmail.com)
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/your-linkedin-profile-link)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:your.email@gmail.com)
+
 Project Link: [https://github.com/yourusername/banking-system](https://github.com/yourusername/banking-system)
+```
+
+Replace `your-linkedin-profile-link` with your actual LinkedIn profile URL and `your.email@gmail.com` with your Gmail address. This code will have the LinkedIn and Gmail icons linked to your provided profiles.
 ```
 
 Remember to replace `yourusername` with your actual GitHub username and customize the content as needed. You can also add screenshots, modify contact information, and provide additional project-specific details.
