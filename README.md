@@ -27,7 +27,7 @@ A simple banking system implementation in C++ that allows users to open accounts
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/banking-system.git
+   git clone https://github.com/TechTrekker25/Banking_system.git
    ```
 
 2. Navigate to the repository directory:
@@ -63,7 +63,9 @@ A simple banking system implementation in C++ that allows users to open accounts
 
 ## Sample Screenshots
 
-_Insert some screenshots here to visually showcase the program's interface and functionality._
+![Sample Screenshot](ss.png)
+
+_Insert some additional screenshots here to visually showcase the program's interface and functionality._
 
 ## Contributing
 
@@ -88,4 +90,4 @@ YOGESH T
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/yogesh-t-5424211bb/)
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:higgsboson25022003@gmail.com)
 
-Project Link: [https://github.com/yourusername/banking-system](https://github.com/TechTrekker25/Banking_system))
+Project Link: [https://github.com/TechTrekker25/Banking_system](https://github.com/TechTrekker25/Banking_system)
