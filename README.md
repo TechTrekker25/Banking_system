@@ -1,6 +1,9 @@
 # <p align="center">
 # <img src="https://img.shields.io/badge/Banking-automater-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 # </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/92/99/40/929940c7800ad3868b0e7828d53073a7.gif" alt="Welcome GIF">
+</p>
 
 A simple banking system implementation in C++ that allows users to open accounts, check balances, deposit, withdraw, and manage accounts.
 
@@ -86,6 +89,3 @@ YOGESH T
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:higgsboson25022003@gmail.com)
 
 Project Link: [https://github.com/yourusername/banking-system](https://github.com/TechTrekker25/Banking_system))
-
-
-Remember to replace `yourusername` with your actual GitHub username and customize the content as needed. You can also add screenshots, modify contact information, and provide additional project-specific details.
