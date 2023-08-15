@@ -85,10 +85,7 @@ YOGESH T
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/yogesh-t-5424211bb/)
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:higgsboson25022003@gmail.com)
 
-Project Link: [https://github.com/yourusername/banking-system]([https://github.com/yourusername/banking-system](https://github.com/TechTrekker25/Banking_system))
-```
+Project Link: [https://github.com/yourusername/banking-system](https://github.com/TechTrekker25/Banking_system))
 
-Replace `your-linkedin-profile-link` with your actual LinkedIn profile URL and `your.email@gmail.com` with your Gmail address. This code will have the LinkedIn and Gmail icons linked to your provided profiles.
-```
 
 Remember to replace `yourusername` with your actual GitHub username and customize the content as needed. You can also add screenshots, modify contact information, and provide additional project-specific details.
